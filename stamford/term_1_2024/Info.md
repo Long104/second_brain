@@ -1,11 +1,11 @@
 ---
 date: 2024-10-13T00:00:00.000Z
 tags:
-  - null
+  - info
+  - calendars
 hubs:
   - '[[]]'
-urls:
-  - null
+urls: null
 ---
 # Contents
 
