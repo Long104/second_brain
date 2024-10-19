@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntn/network/VPN_Tunnel_VS_Acess_List.md",
+                "file": "code/git/git-command.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ntn/network/VPN_Tunnel_VS_Acess_List.md",
+                "file": "code/git/git-command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ntn/network/VPN_Tunnel_VS_Acess_List.md",
+                "file": "code/git/git-command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ntn/network/VPN_Tunnel_VS_Acess_List.md"
+                "file": "code/git/git-command.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "220e7d5ac4d27c28",
   "lastOpenFiles": [
+    "code/git/damn.md",
+    "code/git/img/Pasted image 20241020010856.png",
+    "code/git/img",
+    "code/git/git-command.md",
     "stamford/term_1_2024/Info.md"
   ]
 }
