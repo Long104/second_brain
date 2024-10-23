@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/git/git-command.md",
+                "file": "code/devops/Kubernetes/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/git-command.md",
+                "file": "code/devops/Kubernetes/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code/git/git-command.md",
+                "file": "code/devops/Kubernetes/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/git/git-command.md"
+                "file": "code/devops/Kubernetes/Kubernetes.md"
               }
             }
           }
@@ -148,10 +148,27 @@
   },
   "active": "220e7d5ac4d27c28",
   "lastOpenFiles": [
+    "code/devops/Kubernetes/ingress.md",
+    "code/devops/img/Screenshot 2567-10-22 at 21.30.49.png",
+    "code/devops/Kubernetes/Kubernetes.md",
+    "code/devops/Kubernetes/example.md~",
+    "code/devops/Kubernetes/example.md",
+    "code/devops/Kubernetes/practical.md",
+    "code/devops/Kubernetes/kubectl.md",
+    "code/devops/img/Screenshot 2567-10-22 at 16.32.30.png",
+    "code/devops/img/Screenshot 2567-10-22 at 16.02.15.png",
+    "code/devops/img/Screenshot 2567-10-22 at 15.47.28.png",
+    "Screenshot.md",
+    "code/devops/img",
+    "code/Untitled",
+    "code/git/git-command.md",
+    "code/devops/Kubernetes/basic.md",
+    "code/devops/Kubernetes/ ",
+    "code/devops/Kubernetes",
+    "code/devops",
     "code/git/damn.md",
     "code/git/img/Pasted image 20241020010856.png",
     "code/git/img",
-    "code/git/git-command.md",
     "stamford/term_1_2024/Info.md"
   ]
 }
