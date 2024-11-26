@@ -13,36 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/tools/url/web.md",
+                "file": "stamford/term_2_2024/ITE104/week2/BASIC STRUCTURE OF Computer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web"
+              "title": "BASIC STRUCTURE OF Computer"
             }
           },
           {
-            "id": "7fd73001ace0b39d",
+            "id": "4231f6a08472fbb0",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.6"
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "269ee4491f2e6c6e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -188,6 +176,21 @@
   },
   "active": "220e7d5ac4d27c28",
   "lastOpenFiles": [
+    "stamford/term_2_2024/ITE104/exam.md",
+    "stamford/term_2_2024/ITE104/week2/BASIC STRUCTURE OF Computer.md",
+    "Screenshot 2567-11-25 at 10.56.00.png",
+    "Screenshot 2567-11-25 at 09.20.55.png",
+    "stamford/term_2_2024/ITE104/week1/exam.md",
+    "stamford/term_2_2024/ITE104/week1/exam",
+    "Screenshot 2567-11-21 at 11.32.30.png",
+    "stamford/main.go",
+    "Screenshot 2567-11-21 at 09.34.01.png",
+    "Screenshot 2567-11-21 at 09.21.41.png",
+    "stamford/term_2_2024/ITE101/week1/Screenshot 2567-11-18 at 10.59.04.png",
+    "stamford/term_2_2024/ITE104/week1/BASIC STRUCTURE OF COMPUTERS.md",
+    "stamford/term_2_2024/ITE101/week1/Screenshot 2567-11-21 at 09.17.45.png",
+    "stamford/term_2_2024/ITE104/project/project.md",
+    "stamford/term_2_2024/ITE104/project",
     "path.md",
     "code/tools/url/web.md",
     "code/tools/url",
@@ -200,7 +203,6 @@
     "code/devops/Kubernetes/kubectl.md",
     "code/devops/img/Screenshot 2567-10-22 at 16.32.30.png",
     "code/devops/img/Screenshot 2567-10-22 at 16.02.15.png",
-    "code/devops/img/Screenshot 2567-10-22 at 15.47.28.png",
     "Screenshot.md",
     "code/devops/img",
     "code/Untitled",
@@ -210,8 +212,6 @@
     "code/devops/Kubernetes",
     "code/devops",
     "code/git/damn.md",
-    "code/git/img/Pasted image 20241020010856.png",
-    "code/git/img",
     "stamford/term_1_2024/Info.md"
   ]
 }
